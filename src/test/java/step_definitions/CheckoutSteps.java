@@ -3,9 +3,9 @@ package step_definitions;
 import hooks.Hooks;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
-import org.example.pageObject.CartPage;
-import org.example.pageObject.CheckoutPage;
-import org.example.pageObject.ProductPage;
+import test.pageObject.CartPage;
+import test.pageObject.CheckoutPage;
+import test.pageObject.ProductPage;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 
